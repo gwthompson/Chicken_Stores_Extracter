@@ -1,6 +1,6 @@
 # Python Script for Pulling Data from the Korean Public Data Portal
 
-This is a script to request data for registered fried chicken restaurants in South Korea for my blog post. You can find the post at: [here](https://yoonoh930.github.io/).
+This is a script to request data for registered fried chicken restaurants in South Korea for my blog post. You can find the post at [here](https://yoonoh930.github.io/).
 
 ## Getting Started
 
